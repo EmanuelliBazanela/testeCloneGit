@@ -1,2 +1,2 @@
 # testeCloneGit
-Este repositorio deve ser clonado pelos alunos de Info 19!!!
+Este repositorio deve ser clonado pelos alunos de Info 19!!!# exercicio-01-EmanuelliBazanela
