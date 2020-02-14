@@ -8,6 +8,8 @@ int main(){
 
     resultado=idade -1;
     printf("\n Sua idade agora: %i \n",resultado);
-
+    
+    idade + 1;
+  printf("Sua idade original:%d\n",idade);
     return 0;
 }
